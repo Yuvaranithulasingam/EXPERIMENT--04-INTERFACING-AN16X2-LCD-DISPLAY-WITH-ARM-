@@ -205,11 +205,15 @@ int main(void)
 
   LCD IS OFF :
  
- ![EX4 OUTPUT (OFF)](https://user-images.githubusercontent.com/121418522/234253268-320addb8-f78c-44e1-a8b9-14f4f4086ed1.png)
- 
+ ![EX4 OUTPUT (OFF)](https://github.com/Yuvaranithulasingam/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/121418522/aa54bf17-c58f-44aa-b492-89aff47abeee)
+
  LCD IS ON :
  
  ![EX4 OUTPUT (ON)](https://user-images.githubusercontent.com/121418522/234253782-8b7d9baf-ba8c-46ce-b06e-77d2fa65ed26.png)
+ 
+ # Layout image :
+ 
+ ![lay](https://github.com/Yuvaranithulasingam/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/121418522/b191d82f-4449-4eee-87c2-036fec739582)
 
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
